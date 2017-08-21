@@ -1,0 +1,38 @@
+      .navbarBottom {
+        text-align: center;
+        height: 90px;
+        margin-top: 150px;
+        padding-top: 30px;
+        background: #666666;
+        border-top: 7px solid #4aaaa5;
+        color: #b7b5aa; 
+    }
+      .navbar-static-bottom {
+        text-align: center;
+        height: 90px;
+        margin-top: 150px;
+        padding-top: 30px;
+        background: #666666;
+        border-top: 7px solid #4aaaa5;
+        color: #b7b5aa; 
+    }
+
+      .post-content {
+        /*background: none repeat scroll 0 0;*/
+        color: white;
+        font-weight: bolder;
+        font-family: 'Georgia', Times;
+        font-size: 125%;
+        font-weight: bold;
+        /*transform: translate(50%, -225%);*/
+        position: absolute;
+        top:150px;
+        left:75px;
+        width: 100%;
+      
+}
+
+      .thumbnail{
+        position:relative;
+      
+}
